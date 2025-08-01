@@ -6,4 +6,6 @@ token_cache.json
 
 # Python cache
 __pycache__/
-*.pyc
+*.pyc.venv/
+__pycache__/
+.DS_Store
